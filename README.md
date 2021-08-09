@@ -1,5 +1,5 @@
 ### Hello World? Hello Tech World! <br>
-### Hi there is me Agata 👋
+### Hi there its me Agata 👋
 
 I am fresh fullstack software developer from Germany. Last year I spend on learning JavaScript and really long list of stuff to start my journey in this field. Recently I graduate by creating with my team a website for a company (It was our Final Project). Now it is time to go forward. 
 I am currently:
