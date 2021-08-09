@@ -1,11 +1,12 @@
-### Hello World? Hello Tech World! Hi there is me Agata 👋
+### Hello World? Hello Tech World! 
+###Hi there is me Agata 👋
 
 I am fresh fullstack software developer from Germany. 
 - 🔭 working on a few ideas/projects, that I would like to see "live".
 - 🌱 learning new tools, that can help me create websites in JavaScript. 
 
 <br>
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//agata-bernat) 
 
