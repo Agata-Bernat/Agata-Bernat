@@ -5,6 +5,7 @@ I am fresh fullstack software developer from Germany. Last year I spend on learn
 I am currently:
 - 🔭 working on a few ideas/projects, that I would like to see "live".
 - 🌱 learning new tools, that can help me create better websites in JavaScript. 
+Let's code the world together... 😉
 
 <br>
 ### 📫 How to reach me:
