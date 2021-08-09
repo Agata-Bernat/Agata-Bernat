@@ -7,7 +7,7 @@ I am currently:
 - 🌱 learning new tools, that can help me create better websites in JavaScript. 
 <br>
 Let's code the world together... 😉
-
+<br>
 <br>
 ### 📫 How to reach me:
 
