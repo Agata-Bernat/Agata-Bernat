@@ -1,5 +1,5 @@
 ### Hello World? Hello Tech World! <br>
-###Hi there is me Agata 👋
+### Hi there is me Agata 👋
 
 I am fresh fullstack software developer from Germany. 
 - 🔭 working on a few ideas/projects, that I would like to see "live".
