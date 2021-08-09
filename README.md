@@ -14,7 +14,7 @@ Let's code the world together... 😉
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//agata-bernat) 
 
-<a href = "mailto: agata.bernat.art@gmail.com"><i class="fas fa-envelope-square"></i></a>
+<a href = "mailto: agata.bernat.art@gmail.com">  ✉️ </a>
 
 <br>
 <br>
